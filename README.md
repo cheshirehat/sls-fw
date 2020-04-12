@@ -1,1 +1,2 @@
 # sls-fw
+Serverless Frameworkのテンプレート
